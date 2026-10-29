@@ -4,17 +4,17 @@
 
 The official download and installation information hub for FLN College Football on Windows.
 
-> **Download status:** This repository is being prepared for the first public preview. No installer or artwork pack has been published here yet.
+> **Download status:** **Preview39 Beta is available.** This is an unsigned prerelease; clean Windows 11 and interactive first-run/save-confirmation testing are still pending. Read the release notes before installing.
 
 ## Downloads
 
-When available, official packages will appear on the [FLN Releases page](https://github.com/arsming75-bit/FLN-Downloads/releases):
+Download [Preview39 Beta and read its release notes](https://github.com/arsming75-bit/FLN-Downloads/releases/tag/v1.0.0-preview.39):
 
 | Download | Purpose |
 | --- | --- |
-| FLN Setup (`.exe`) | Installs the application and its included Python and Node runtimes. |
-| FLN Assets (`.zip`) | Separate standard artwork pack. Extract it and select the folder in FLN. |
-| `SHA256SUMS.txt` | Checksums for verifying the files in that release. |
+| [FLN Setup (.exe)](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.39/FLN-Setup-1.0.0-preview.39-x64.exe) | Installs the application and its included Python and Node runtimes. |
+| [FLN Assets (.zip)](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.39/FLN-Assets-1.zip) | Separate standard artwork pack. Extract it and select the folder in FLN. |
+| [SHA256SUMS.txt](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.39/SHA256SUMS.txt) | Checksums for verifying the files in that release. |
 
 GitHub's automatic **Source code (zip/tar.gz)** downloads contain this documentation, not the FLN application. You do not need to clone this repository or install developer tools.
 
