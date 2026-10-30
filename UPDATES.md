@@ -13,7 +13,7 @@ Application updates and artwork downloads are separate. A new application versio
 
 The upgrade process is designed to preserve your library and settings. Keep your backup until you have checked the update. Do not install an older version over a newer one unless that release explicitly documents a supported rollback.
 
-The launcher may provide **Update FLN** guidance. This page does not promise automatic background downloads or installation. The release instructions remain the reference for each update.
+Use **Check for Updates** in the launcher for update guidance. This page does not promise automatic background downloads or installation. The release instructions remain the reference for each update.
 
 ## Standard artwork update
 
