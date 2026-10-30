@@ -35,3 +35,9 @@ GitHub's automatic **Source code (zip/tar.gz)** downloads contain this documenta
 3. For a problem, [open an issue](https://github.com/arsming75-bit/FLN-Downloads/issues/new?template=bug_report.md).
 
 This public repository contains distribution information and user documentation. The FLN development source is maintained separately. Do not upload game saves, API keys, private articles, or personal configuration to this repository or its public issues.
+
+## A special thank-you to the modding community
+
+FLN would not be possible without the college football modding community. Your creativity, research, tools, artwork, and willingness to share knowledge paved the way for projects like this.
+
+To the modders, roster creators, artists, tool builders, testers, and everyone who helps others get more out of their dynasties: thank you. You helped make FLN possible, and this project is built with appreciation for the work you continue to do.
