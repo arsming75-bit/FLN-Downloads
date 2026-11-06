@@ -4,19 +4,19 @@
 
 The official download and installation information hub for FLN College Football on Windows.
 
-> **Download status:** **Preview47 Beta is available.** This is an unsigned prerelease; clean Windows 11 and interactive first-run/save-confirmation testing are still pending. Read the release notes before installing.
+> **Download status:** **Preview48 Beta is available.** This is an unsigned prerelease; clean Windows 11 and interactive first-run/save-confirmation testing are still pending. Read the release notes before installing.
 
 ## Downloads
 
-Download [Preview47 Beta and read its release notes](https://github.com/arsming75-bit/FLN-Downloads/releases/tag/v1.0.0-preview.47):
+Download [Preview48 Beta and read its release notes](https://github.com/arsming75-bit/FLN-Downloads/releases/tag/v1.0.0-preview.48):
 
 | Download | Purpose |
 | --- | --- |
-| [FLN Setup (.exe)](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.47/FLN-Setup-1.0.0-preview.47-x64.exe) | Installs the application and its included Python and Node runtimes. |
+| [FLN Setup (.exe)](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.48/FLN-Setup-1.0.0-preview.48-x64.exe) | Installs the application and its included Python and Node runtimes. |
 | [FLN Assets (.zip)](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.39/FLN-Assets-1.zip) | Separate standard artwork pack. Extract it and select the folder in FLN. |
-| [SHA256SUMS.txt](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.47/SHA256SUMS.txt) | Checksums for the new installer and compatible artwork pack. |
+| [SHA256SUMS.txt](https://github.com/arsming75-bit/FLN-Downloads/releases/download/v1.0.0-preview.48/SHA256SUMS.txt) | Checksums for the new installer and compatible artwork pack. |
 
-Existing users can keep their current FLN Assets folder; the artwork pack is unchanged. Preview47 adds consistent My Team banners, a shorter saved-story AI workflow, automatic conference and Top 25 movement stories, weekly-awards and prior-champion fixes, a user-team recruiting class archive, and clearer All-Conference wording. It includes the previously tested article-preview, Newsroom, bowl-scheduling and transfer-filter improvements. Read the release notes for eligibility, backup instructions and remaining beta limits.
+Existing users can keep their current FLN Assets folder; the artwork pack is unchanged. Preview48 keeps verified recruiting and transfer recaps available in preseason and Week 0, preserves offseason Heisman and Coach of the Year recipients, and enables new-head-coach introductions during bowl weeks once the hire takes effect. It includes all Preview47 presentation, article-workflow and history improvements. Continuity requires the matching original facts to have been recorded in the same registered dynasty. Read the release notes for eligibility, backup instructions and remaining beta limits.
 
 GitHub's automatic **Source code (zip/tar.gz)** downloads contain this documentation, not the FLN application. You do not need to clone this repository or install developer tools.
 
