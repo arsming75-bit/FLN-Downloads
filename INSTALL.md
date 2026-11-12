@@ -25,9 +25,9 @@ Microsoft explains these distinctions in its [SmartScreen guidance](https://lear
 2. Extract the artwork ZIP using **Extract All**. Keep the resulting **FLN Assets** folder in a permanent location outside the application installation folder. Do not select the ZIP itself.
 3. Run the verified installer and follow its prompts. Keep **Create a desktop shortcut** and **Open FLN** selected if you want those options.
 4. When FLN asks for artwork, select the extracted **FLN Assets** folder. Initial verification can take a little time.
-5. In the launcher, select **Open FLN** to open the website in your default browser. Keep the launcher running while using FLN.
-6. On the website's welcome screen, select **Choose Save** and choose your College Football Dynasty save. Loading progress appears after selection. Once loaded, use **Open Save** in the header to change saves. Saved Newsroom, History and Storage remain accessible before a save is open. FLN reads the game save without modifying it.
-7. Register the dynasty when prompted, then check the displayed school, season, and week.
+5. In the launcher, select **Open FLN**. If a previous save is available, choose whether to continue it. **Yes** reloads that file's current contents, **No** lets you choose a different save, and **Cancel** leaves the launcher open. On your first use, select your College Football Dynasty save in the file picker.
+6. Wait for FLN to finish loading. The website opens after the save is ready. Keep the launcher running while using FLN. Once on the website, use **Open Save** in the header to change saves. FLN reads game saves without modifying them.
+7. Register a new dynasty, or link a newly loaded week to the matching existing dynasty when prompted. Then check the displayed school, season, and week. Continuing a filename does not by itself register or link its history; an overwritten weekly save is a new checkpoint.
 
 Python and Node are included in the installer. You do not need to install them separately. The application runs locally; installing FLN does not set up remote access or Tailscale sharing.
 
